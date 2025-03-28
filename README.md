@@ -16,7 +16,8 @@ Features
 Installation
 Clone the Repository:
 
-git clone https://github.com/yourusername/background-remover-replacer.git
+git clone [https://github.com/yourusername/background-remover-replacer.git](https://github.com/ErikElcsics/Build-Streamlit-Python-App-for-replacing-image-backgrounds-with-solid-color-or-another-image.git
+)
 cd background-remover-replacer
 
 Create a Virtual Environment:
